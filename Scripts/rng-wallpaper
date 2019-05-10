@@ -1,0 +1,5 @@
+#!/bin/bash
+while true; do
+  feh --randomize --bg-scale /home/nekros/Pictures/mac/*
+  sleep 30m
+done

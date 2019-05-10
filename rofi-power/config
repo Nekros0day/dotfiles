@@ -1,0 +1,4 @@
+# configuration for rofi-power tool 
+LAUNCHER="rofi -location 3 -yoffset 38 -xoffset -8 -width 10 -opacity "95" -bw 0 -bc "#1c1c1c" -bg "#1c1c1c" -fg "#707070" -hlbg "#1c1c1c" -hlfg "#FFFFFF" -dmenu -i -p  $"
+USE_LOCKER="false"
+LOCKER="i3lock"
